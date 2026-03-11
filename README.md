@@ -19,6 +19,6 @@ GitHub | VS Code
 ## Languages
 Spanish: Native
 
-English: Intermediate (B1+)
+English: Intermediate (B1+) (Cambridge English)
 
 Japanese: Planning to study in the future
