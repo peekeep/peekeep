@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Luciano Elia 👋
 
-<!--
-**peekeep/peekeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Development student and Computer Science student.  
+📚 Currently learning HTML, CSS and JavaScript.  
+📄 Knowledge of basic programming concepts (sequential algorithms, conditionals, loops, functions, modularization and arrays) using Java and PHP.  
+🎯 Interested in web development and software development.
 
-Here are some ideas to get you started:
+## Projects
+- Card game in Java
+- Programming exercises in PHP and Java
+- Matching figures game in PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Java | PHP 
+
+## Tools
+GitHub | VS Code
+
+## Languages
+Spanish: Native
+
+English: Intermediate (B1+)
+
+Japanese: Planning to study in the future
