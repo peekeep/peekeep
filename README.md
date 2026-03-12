@@ -2,7 +2,7 @@
 
 💻 Web Development student and Computer Science student.  
 📚 Currently learning HTML, CSS and JavaScript.  
-📄 Knowledge of basic programming concepts (sequential algorithms, conditionals, loops, functions, modularization, code documentation and arrays) using Java and PHP.  
+📄 Knowledge of basic programming concepts (sequential algorithms, conditionals, loops, functions, modularization, arrays, and code documentation) using Java and PHP.  
 🎯 Interested in web development and software development.
 
 ## Projects
